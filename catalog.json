@@ -11,6 +11,18 @@
       "posterUrl": "https://moution.ru/images/sonic-small.jpg",
       "backgroundUrl": "https://moution.ru/images/sonic-big.jpg",
       "videoUrl": "https://moution.ru/video/sonic-test.mp4"
+    },
+    {
+      "id": "hade",
+      "title": "ЧТО СКРЫТО В PROJECT: PLAYTIME?",
+      "description": "ЧТО СКРЫТО В PROJECT: PLAYTIME?",
+      "year": 2026,
+      "genre": "Фантастика",
+      "duration": "30 мин",
+      "ageRating": "12+",
+      "posterUrl": "https://moution.ru/images/sonic-small.jpg",
+      "backgroundUrl": "https://moution.ru/images/hade.jpg",
+      "videoUrl": "https://moution.ru/video/hade.mp4"
     }
   ]
 }
