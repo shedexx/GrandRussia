@@ -2,8 +2,8 @@
   "movies": [
     {
       "id": "sonic-test",
-      "title": "Соник: Ночь ежа-оборотня",
-      "description": "Приключения соника и его друзей. Их главная задача - не проиграть.",
+      "title": "Соник: Ночь ежа",
+      "description": "Приключения соника и его друзей.",
       "year": 2008,
       "genre": "Фантастика",
       "duration": "11 мин",
@@ -14,99 +14,15 @@
     },
     {
       "id": "bitva",
-      "title": "Смертельная битва: Возрождение",
-      "description": "Короткометражка, раскрывающая альтернативный вариант вселенной Mortal Kombat. Персонажи игры представлены со значительными отклонениями от оригинала, с уклоном в реализм.",
+      "title": "Битва: Возрождение",
+      "description": "Короткометражка, раскрывающая альтернативный вариант вселенной Mortal Kombat.",
       "year": 2010,
       "genre": "Фантастика",
       "duration": "7 мин",
-      "ageRating": "16+",
+      "ageRating": "6+",
       "posterUrl": "https://moution.ru/images/bitva.jpg",
       "backgroundUrl": "https://moution.ru/images/bitva.jpg",
       "videoUrl": "https://moution.ru/video/bitva.mp4"
-    },
-    {
-      "id": "tv-1tv",
-      "title": "Первый канал",
-      "description": "Прямой эфир главного телеканала страны.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
-      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
-      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
-    },
-    {
-      "id": "tv-tvoetv",
-      "title": "Твоё TV",
-      "description": "Развлекательный телеканал для всей семьи.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/tvoe-tv.jpg",
-      "backgroundUrl": "https://moution.ru/images/tvoe-tv.jpg",
-      "videoUrl": "http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1"
-    },
-    {
-      "id": "tv-1tv1",
-      "title": "Первый канал",
-      "description": "Прямой эфир главного телеканала страны.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
-      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
-      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
-    },
-    {
-      "id": "tv-1tv2",
-      "title": "Первый канал",
-      "description": "Прямой эфир главного телеканала страны.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
-      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
-      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
-    },
-    {
-      "id": "tv-1tv3",
-      "title": "Первый канал",
-      "description": "Прямой эфир главного телеканала страны.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
-      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
-      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
-    },
-    {
-      "id": "tv-1tv4",
-      "title": "Первый канал 2",
-      "description": "Прямой эфир главного телеканала страны.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
-      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
-      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
-    },
-    {
-      "id": "tv-1tv5",
-      "title": "Первый канал 3",
-      "description": "Прямой эфир главного телеканала страны.",
-      "year": 2026,
-      "genre": "ТВ Канал",
-      "duration": "Прямой эфир",
-      "ageRating": "12+",
-      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
-      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
-      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
     }
   ]
 }
