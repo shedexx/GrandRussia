@@ -48,5 +48,65 @@
       "backgroundUrl": "https://moution.ru/images/tvoe-tv.jpg",
       "videoUrl": "http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1"
     }
+    {
+      "id": "tv-1tv1",
+      "title": "Первый канал",
+      "description": "Прямой эфир главного телеканала страны.",
+      "year": 2026,
+      "genre": "ТВ Канал",
+      "duration": "Прямой эфир",
+      "ageRating": "12+",
+      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
+      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
+      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+    },
+    {
+      "id": "tv-1tv2",
+      "title": "Первый канал",
+      "description": "Прямой эфир главного телеканала страны.",
+      "year": 2026,
+      "genre": "ТВ Канал",
+      "duration": "Прямой эфир",
+      "ageRating": "12+",
+      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
+      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
+      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+    },
+    {
+      "id": "tv-1tv3",
+      "title": "Первый канал",
+      "description": "Прямой эфир главного телеканала страны.",
+      "year": 2026,
+      "genre": "ТВ Канал",
+      "duration": "Прямой эфир",
+      "ageRating": "12+",
+      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
+      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
+      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+    },
+    {
+      "id": "tv-1tv4",
+      "title": "Первый канал",
+      "description": "Прямой эфир главного телеканала страны.",
+      "year": 2026,
+      "genre": "ТВ Канал",
+      "duration": "Прямой эфир",
+      "ageRating": "12+",
+      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
+      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
+      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+    },
+    {
+      "id": "tv-1tv5",
+      "title": "Первый канал",
+      "description": "Прямой эфир главного телеканала страны.",
+      "year": 2026,
+      "genre": "ТВ Канал",
+      "duration": "Прямой эфир",
+      "ageRating": "12+",
+      "posterUrl": "https://moution.ru/images/1tv_poster.jpg",
+      "backgroundUrl": "https://moution.ru/images/1tv_bg.jpg",
+      "videoUrl": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
+    },
   ]
 }
